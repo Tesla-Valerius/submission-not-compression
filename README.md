@@ -1,6 +1,9 @@
 # submission-not-compression
 ## Note  “Compression that wins” and “Submission that wins” are not the same.  Stopped at the point where the latter was achievable.
 
+This repository contains a submission-oriented compression pipeline designed for the 16MB constraint, prioritizing determinism and reconstructability over raw compression tricks.
+
+
 ## Dev Log — 2026-04-03
 
 Parameter Golf (16MB track) に対して独自アプローチを試行。
